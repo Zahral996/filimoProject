@@ -1,0 +1,30 @@
+{
+  "name": "web3-finalproject",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "jsonserver": "json-server --watch db.json"
+  },
+  "devDependencies": {
+    "vite": "^5.4.8"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.21.5",
+    "json-server": "^1.0.0-beta.3",
+    "nanoid": "^3.3.7",
+    "picocolors": "^1.1.0",
+    "postcss": "^8.4.47",
+    "rollup": "^4.24.0",
+    "source-map-js": "^1.2.1",
+    "swiper": "^11.1.14"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

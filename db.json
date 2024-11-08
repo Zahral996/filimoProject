@@ -1,0 +1,772 @@
+{
+    "Menu":{
+        "logo":[
+            {
+                "id":1,
+                "src":"https://www.filimo.com/assets/web/ui/img-5r4F4tjbOtV8XaNTuzUYQ/filimo/fa-filimo-dark-logo.svg"
+            }
+        ],
+        "links":[
+            {
+                "id":1,
+                "name":"فیلیموتور",
+                "href":"https://www.filimo.com/#tour",
+                "icon":"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"#F9AD03\" class=\"bi bi-fire\" viewBox=\"0 0 16 16\"><path d=\"M8 16c3.314 0 6-2 6-5.5 0-1.5-.5-4-2.5-6 .25 1.5-1.25 2-1.25 2C11 4 9 .5 6 0c.357 2 .5 4-2 6-1.25 1-2 2.729-2 4.5C2 14 4.686 16 8 16m0-1c-1.657 0-3-1-3-2.75 0-.75.25-2 1.25-3C6.125 10 7 10.5 7 10.5c-.375-1.25.5-3.25 2-3.5-.179 1-.25 2 1 3 .625.5 1 1.364 1 2.25C11 14 9.657 15 8 15\"/></svg>"
+            },
+            {
+                "id":2,
+                "name":"فیلیمومدرسه",
+                "href":"https://www.filimo.school/?utm_source=filimo-web&utm_medium=navigation&utm_campaign=filimo-user&utm_content=home",
+                "icon":"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"white\" class=\"bi bi-camera-reels-fill\" viewBox=\"0 0 16 16\"><path d=\"M6 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0\"/><path d=\"M9 6a3 3 0 1 1 0-6 3 3 0 0 1 0 6\"/><path d=\"M9 6h.5a2 2 0 0 1 1.983 1.738l3.11-1.382A1 1 0 0 1 16 7.269v7.462a1 1 0 0 1-1.406.913l-3.111-1.382A2 2 0 0 1 9.5 16H2a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2z\"/></svg>"
+            },
+            {
+                "id":3,
+                "name":"جستجو",
+                "href":"https://www.filimo.com/search",
+                "icon":"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"white\" class=\"bi bi-search\" viewBox=\"0 0 16 16\"><path d=\"M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0\"/></svg>"
+            }
+        ],
+        "subscribe":[
+            {
+            "id": 1,
+            "name" : "خریداشتراک",
+            "href" :"https://www.filimo.com/payment"
+        }
+    ],
+        "login":[
+            {
+            "id": 1,
+            "name":"ورود",
+            "href" : "https://www.filimo.com/signin"
+        }
+    ]
+    },
+
+    "Homehero" :{
+        "slider":[
+            {
+                "id" : 1,
+                "src" : "./public/images/slider/slide1.jpeg"
+            },
+            {
+                "id": 2,
+                "src" : "./public/images/slider/slide2.jpeg"
+            },
+            {
+                "id":3,
+                "src": "./public/images/slider/slide3.jpeg"
+            },
+            {
+                "id" : 4,
+                "src": "./public/images/slider/slide4.jpeg"
+            },
+            {
+                "id" : 5,
+                "src": "./public/images/slider/slide5.jpeg"
+            },
+            {
+                "id" : 6,
+                "src": "./public/images/slider/slide6.jpeg"
+            },
+            {
+                "id" : 7,
+                "src": "./public/images/slider/slide7.jpeg"
+            },
+            {
+                "id" : 8,
+                "src": "./public/images/slider/slide8.jpeg"
+            }
+        ],
+        "heading":[
+            {
+                "id" : 1,
+                "text1": "با فیلیمو بی وقفه فیلم ببین",
+                "text2" :  "کنترل همیشه دست توست!"
+            }
+        ],
+        "features":[
+            {
+                "id":1,
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"#1CB561\" class=\"bi bi-check-circle\" viewBox=\"0 0 16 16\"><path d=\"M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16\"/><path d=\"m10.97 4.97-.02.022-3.473 4.425-2.093-2.094a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05\"/></svg>",
+                "text": "95 هزار اپیزود فیلم و سریال برای تماشا داری"
+            },
+            {
+                "id":2,
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"#1CB561\" class=\"bi bi-check-circle\" viewBox=\"0 0 16 16\"><path d=\"M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16\"/><path d=\"m10.97 4.97-.02.022-3.473 4.425-2.093-2.094a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05\"/></svg>",
+                "text": "میتونی دانلود کنی بعدا بدون اینترنت تماشا کنی"
+            },
+            {
+                "id":3,
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"#1CB561\" class=\"bi bi-check-circle\" viewBox=\"0 0 16 16\"><path d=\"M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16\"/><path d=\"m10.97 4.97-.02.022-3.473 4.425-2.093-2.094a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05\"/></svg>",
+                "text": "میتونی یک عضو مخصوص تماشای کودک بسازی"
+            }
+        ],
+        "subscribtion":[
+            {
+                "id":1,
+                "name" : "خریداشتراک",
+                "href" :"https://www.filimo.com/payment"
+            }
+        ],
+        "offer":[
+            {
+                "id": 1,
+                "text": "تخفیف ویژه برای کاربران جدید"
+            }
+        ]
+    },
+    "BestFilimo": {
+        "bestHeading":{
+            "id":1,
+            "title": "محبوب‌ترین‌های فیلیمو",
+            "switch": {
+                "id": 1,
+                "firstBtn": "سریال",
+                "secondBtn": "فیلم"
+            }
+        },
+        "series":[
+            {
+                "id": 1,
+                "name": "بازنده",
+                "src": "./public/images/best filimo/series/bazande/bazande.webp"
+            },
+            {
+                "id": 2,
+                "name": "جوکر",
+                "src": "./public/images/best filimo/series/joker/joker.webp"
+            },
+            {
+                "id":3 ,
+                "name": "َشام ایرانی",
+                "src": "./public/images/best filimo/series/shamirani/shamirani.webp"
+            },
+            {
+                "id": 4,
+                "name": "سرگیجه",
+                "src": "./public/images/best filimo/series/sargije/sargije.webp"
+            },
+            {
+                "id": 5,
+                "name": "لالایی",
+                "src": "./public/images/best filimo/series/lalayi/lalayi.webp"
+            },
+            {
+                "id": 6,
+                "name": "کارمانی",
+                "src": "./public/images/best filimo/series/karmani/karmani.webp"
+            }
+            
+        ],
+        "movies":[
+            {
+                "id":1 ,
+                "src": "./public/images/best filimo/movies/theatersmall.webp"
+            },
+            {
+                "id": 2,
+                "src": "./public/images/best filimo/movies/paria.webp"
+            },
+            {
+                "id":3 ,
+                "src": "./public/images/best filimo/movies/bibadanwebp.webp"
+            },
+            {
+                "id": 4,
+                "src": "./public/images/best filimo/movies/havayi.webp"
+            }
+        ],
+        "bazande":{
+            "id": 1,
+            "src": "./public/images/best filimo/series/bazande/bazandeposter.webp",
+            "title": "بازنده",
+            "director": "کارگردان: امین حسین پور",
+            "types": {
+                "firstType": "جنایی",
+                "secondType": "رازآلود"
+            },
+            "explanation": "خانواده کودک گم شده بدون اطلاع کارآگاه کیانی برای تبادل کودک و پول سر قرار رفتند و آدم ربا پول ها را از چنگ شان درآورد. ",
+            "btn": {
+                "id": 1,
+                "name": "خرید اشتراک و تماشا",
+                "href": "https://www.filimo.com/payment"
+            },
+            "detail": "بالای ۱۵ سال - یک ساعت  - محصول ایران - ۱۴۰۲ - کیفیت HD"
+        },
+        "ShamIrani":{
+            "id": 1,
+            "src": "./public/images/best filimo/series/shamirani/poster.webp",
+            "title": "شام ایرانی",
+            "director": "کارگردان: سعید ابوطالب",
+            "types": {
+                "firstType": "خانوادگی",
+                "secondType": "درام"
+            },
+            "explanation": "نوبت الیکا عبدالرزاقی برای پاگشای سپند و مونا فرا رسیده . هیچ کس نمی داند که او چرا تا کنون مدرک بین المللی آشپزی اش را",
+            "btn": {
+                "id": 1,
+                "name": "خرید اشتراک و تماشا",
+                "href": "https://www.filimo.com/payment"
+            },
+            "detail": "بالای 10 سال - یک ساعت و ۴۵ دقیقه - محصول ایران - 1403 - کیفیت HD"
+        },
+        "Joker" :{
+            "id": 3,
+            "src": "./public/images/best filimo/series/joker/jokerposter.webp",
+            "title": "جوکر 2",
+            "director": "کارگردان: احسان علیخانی",
+            "types": {
+                "firstType": "ریلیتی شو",
+                "secondType": "کمدی"
+            },
+            "explanation": "تو این قسمت، رشید در ادامه نقش عوض کردناش تبدیل به زنبورعسل میشه و همه رو از عسلش مهمون می کنه؛ اما عسل به علی",
+            "btn": {
+                "id": 1,
+                "name": "خرید اشتراک و تماشا",
+                "href": "https://www.filimo.com/payment"
+            },
+            "detail": "بالای ۱۵ سال - یک ساعت و ۴۵ دقیقه - محصول ایران - ۱۴۰۲ - کیفیت HD"
+        },
+        "Sargije":
+        {
+            "id": 4,
+            "src": "./public/images/best filimo/series/sargije/poster.webp",
+            "title": "سرگیجه",
+            "director": "کارگردان: محمد حاتمی",
+            "types": {
+                "firstType": "ریلیتی شو",
+                "secondType": ""
+            },
+            "explanation": "با یه گروه دوست داشتنی دوباره برگشتیم. توی این قسمت قراره محکوم رو بفرستیم کاپوت سواری؛ با چاشنی حرکات نمایشی. ",
+            "btn": {
+                "id": 1,
+                "name": "خرید اشتراک و تماشا",
+                "href": "https://www.filimo.com/payment"
+            },
+            "detail": "بالای ۱۵ سال - یک ساعت و ۴۵ دقیقه - محصول ایران - ۱۴۰۲ - کیفیت HD"
+        },
+        "Lalayi":{
+            "id": 5,
+            "src": "./public/images/best filimo/series/lalayi/poster.webp",
+            "title": "لالایی",
+            "director": "کارگردان: احمد درویشعلی پور",
+            "types": {
+                "firstType": "خانوادگی",
+                "secondType": ""
+            },
+            "explanation": "با حضور استادِ اوس پاداش، استاد جان و راهکارهایش، اتفاقات رنگ و بوی دیگری می گیرد...",
+            "btn": {
+                "id": 1,
+                "name": "خرید اشتراک و تماشا",
+                "href": "https://www.filimo.com/payment"
+            },
+            "detail": "بالای 6 سال - ۴۵ دقیقه - محصول ایران - ۱۴۰۲ - کیفیت HD"
+        },
+        "Karmani" :{
+            "id": 6,
+            "src": "./public/images/best filimo/series/karmani/poster.webp",
+            "title": "کارمانی",
+            "director": "کارگردان: محمدرضا رضائیان",
+            "types": {
+                "firstType": "ریلیتی شو",
+                "secondType": ""
+            },
+            "explanation": "تصور کنید سرمایه ی شما، مثل آجر های یه خونه، کنار هم قرار می گیرن و بنای یه کسب وکار رو می سازن. توی کارمانی، هر سرمایه",
+            "btn": {
+                "id": 1,
+                "name": "خرید اشتراک و تماشا",
+                "href": "https://www.filimo.com/payment"
+            },
+            "detail": "بالای ۱۵ سال - یک ساعت و ۴۵ دقیقه - محصول ایران - ۱۴۰۲ - کیفیت HD"
+        },
+        "Tehran" :{
+            "id": 1,
+            "src" : "./public/images/best filimo/movies/theater.webp",
+            "title": "تهران دهه ۷۰",
+            "director": "کارگردان: حامد مصباحی",
+            "types":{
+                "firstType": "تئاتر",
+                "secondType": "کمدی"
+            },
+            "explanation": "دهه هفتاد است و در یکی از محله های تهران دو شریک بر سر یک سالن تئاتر به مشکل بر می خورند که پاشا دایی، یکی از شرکا، به جای کمک کرد",
+            "btn": {
+                "id": 1,
+                "name": "خرید اشتراک و تماشا",
+                "href": "https://www.filimo.com/payment"
+            },
+            "detail": "بالای ۱۵ سال - یک ساعت و ۴۵ دقیقه - محصول ایران - ۱۴۰۲ - کیفیت HD"
+        },
+        "paria":{
+            "id": 1,
+            "src" : "./public/images/best filimo/movies/paraiaposter.webp",
+            "title": "پریا",
+            "director": "کارگردان: شاهین صمدپور",
+            "types":{
+                "firstType": "درام",
+                "secondType": "خانوادگی"
+            },
+            "explanation": "پریا در کودکی مورد آزار جنسی همسرِ مادر خود قرار گرفته و این راز را از همه پنهان کرده است. او پس از سال ها مجبور می شود به خاط",
+            "btn": {
+                "id": 1,
+                "name" : "خرید اشتراک و تماشا",
+                "href" : "https://www.filimo.com/payment"
+            },
+            "detail": "بالای ۱۵ سال - ۱۷ دقیقه - محصول ایران - ۱۴۰۳ - کیفیت HD"
+        },
+        "bibadan":{
+            "id": 1,
+            "src" : "./public/images/best filimo/movies/bibadanposter.webp",
+            "title": "بی بدن",
+            "director": "کارگردان: مرتضی علیزاده",
+            "types":{
+                "firstType": "جنایی",
+                "secondType": "درام"
+            },
+            "explanation": "سارا مقدم پس از گم شدن دخترش ارغوان، به دادسرا مراجعه می کند. موبایل ارغوان ردیابی می شود تا آخرین فردی که او را دیده مش",
+            "btn": {
+                "id": 1,
+                "name":"خرید اشتراک و تماشا",
+                "href": "https://www.filimo.com/payment"
+            },
+            "detail": "بالای ۱۵ سال - یک ساعت و ۵۱ دقیقه - محصول ایران - ۱۴۰۲ - کیفیت HD"
+        },
+        "havayi":{
+            "id": 1,
+            "src" : "./public/images/best filimo/movies/havayiposter.webp",
+            "title": "هاوایی",
+            "director": "کارگردان: بهمن گودرزی",
+            "types":{
+                "firstType": "کمدی",
+                "secondType": "ماجراجویی"
+            },
+            "explanation": "هاوایی داستان ورزشکاری است که برای پیشرفت در رشته ورزشی خود قصد دارد پناهندگی کشوری خارجی را بگیرد که در این حین ماجراه",
+            "btn": {
+                "id": 1,
+                "nam": "خریداشتراک و تماشا",
+                "href": "https://www.filimo.com/payment"
+            },
+            "detail": "بالای ۱۵ سال - یک ساعت و ۲۲ دقیقه - محصول ایران - ۱۳۹۹ - کیفیت HD"
+        }
+    },
+    "FilimoDevices" :{
+        "picture":{
+            "id": 1,
+            "src" : "./public/images/filimo devices/deviceYaghi.webp"
+        },
+        "title" : {
+            "id": 1,
+            "title" : "تماشای فیلیمو با همه دستگاه‌ها",
+            "description" : "می‌توانید فیلیمو را به صورت هم‌زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ‌تاپ، تلویزیون و... تماشا کنید."
+        },
+        "device" : [
+            {
+                "id":1,
+                "name" : "کامپیوتر و لپ‌تاپ",
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"gray\" class=\"bi bi-laptop\" viewBox=\"0 0 16 16\"><path d=\"M13.5 3a.5.5 0 0 1 .5.5V11H2V3.5a.5.5 0 0 1 .5-.5zm-11-1A1.5 1.5 0 0 0 1 3.5V12h14V3.5A1.5 1.5 0 0 0 13.5 2zM0 12.5h16a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 12.5\"/></svg>",
+                "types": "windows PC - MacOS - Chorom OS"
+            },
+            {
+                "id": 2,
+                "name" : "موبایل و تبلت",
+                "icon" : "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"gray\" class=\"bi bi-phone\" viewBox=\"0 0 16 16\"><path d=\"M11 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1zM5 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z\"/><path d=\"M8 14a1 1 0 1 0 0-2 1 1 0 0 0 0 2\"/></svg>",
+                "types" : "Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets"
+            },
+            {
+                "id":3,
+                "name": "کنسول‌های بازی (Browser)",
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"gray\" class=\"bi bi-controller\" viewBox=\"0 0 16 16\"><path d=\"M11.5 6.027a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0m-1.5 1.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1m2.5-.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0m-1.5 1.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1m-6.5-3h1v1h1v1h-1v1h-1v-1h-1v-1h1z\"/><path d=\"M3.051 3.26a.5.5 0 0 1 .354-.613l1.932-.518a.5.5 0 0 1 .62.39c.655-.079 1.35-.117 2.043-.117.72 0 1.443.041 2.12.126a.5.5 0 0 1 .622-.399l1.932.518a.5.5 0 0 1 .306 .729q .211 .136 .373 .297c .408 .408 .78 .772 .32 .733 .599 .591 .805 .2466s .34 .178 .364 .606c .024816 -.059 -.602 -.328 -2 .21\"/></svg>",
+                "types" : "Xbox Series S - Xbox Seris X - PS5 - PS4"
+
+            }   
+        ],
+        "subscribtion" : {
+            "id": 1,
+            "name" : "خرید اشتراک و تماشا",
+            "href" : "https://www.filimo.com/payment"
+        }
+    },
+    "HowWorks" : {
+        "banner":{
+            "id": 1,
+            "src": "./public/images/how/TVBG.webp"
+        },
+        "heading":{
+            "id": 1,
+            "title": "چطور با تلویزیون، فیلیمو تماشا کنم؟",
+            "text": "ما برای راحتی شما و تماشای فیلیمو روی تلویزیون‌های مختلف 6 روش را فراهم کردیم. هرکدام از این 6 روش یک ویدیو آموزشی دارند که می‌توانید از لینک زیر، آن‌ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید."
+        },
+        "options":[
+            {
+                "id": 1,
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"28\" height=\"28\" fill=\"gray\" class=\"bi bi-tv\" viewBox=\"0 0 16 16\"><path d=\"M2.5 13.5A.5.5 0 0 1 3 13h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5M13.991 3l.024.001a1.5 1.5 0 0 1 .538.143.76.76 0 0 1 .302.254c.067.1.145.277.145.602v5.991l-.001.024a1.5 1.5 0 0 1-.143.538.76.76 0 0 1-.254.302c-.1.067-.277.145-.602.145H2.009l-.024-.001a1.5 1.5 0 0 1-.538-.143.76.76 0 0 1-.302-.254C1.078 10.502 1 10.325 1 10V4.009l.001-.024a1.5 1.5 0 0 1 .143-.538.76.76 0 0 1 .254-.302C1.498 3.078 1.675 3 2 3zM14 2H2C0 2 0 4 0 4v6c0 2 2 2 2 2h12c2 0 2-2 2-2V4c0-2-2-2-2-2\"/></svg>",
+                "title": "تلویزیون",
+                "types": "Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung"
+            },
+            {
+                "id": 2,
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"28\" height=\"28\" fill=\"gray\" class=\"bi bi-android\" viewBox=\"0 0 16 16\"><path d=\"M2.76 3.061a.5.5 0 0 1 .679.2l1.283 2.352A8.9 8.9 0 0 1 8 5a8.9 8.9 0 0 1 3.278.613l1.283-2.352a.5.5 0 1 1 .878.478l-1.252 2.295C14.475 7.266 16 9.477 16 12H0c0-2.523 1.525-4.734 3.813-5.966L2.56 3.74a.5.5 0 0 1 .2-.678ZM5 10a1 1 0 1 0 0-2 1 1 0 0 0 0 2m6 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2\"/></svg>",
+                "title": "اندروید تی‌وی",
+                "types": "NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"
+            }
+        ],
+        "btn":{
+            "id": 1,
+            "href": "https://www.filimo.com/tv",
+            "name": "ویدیوهای آموزشی تماشا با تلویزیون"
+        }
+    },
+    "FreeMovies":{
+        "heading": {
+            "id": 1,
+            "text": "محتواهای رایگان"
+        },
+        "movies": [
+            {
+                "id": 1,
+                "href": "https://www.filimo.com/#section_free-movie",
+                "src": "./public/images/free/1.webp",
+                "title": "پایتخت"
+            },
+            {
+                "id": "2",
+                "href": "https://static.cdn.asset.filimo.com/flmt/mov_639_995-b.jpg?width=165&quality=85&sharpen=80&secret=rCOQHoZqc3pHUbQY1o8Fgw",
+                "src" : "./public/images/free/2b.webp",
+                "title": "عقرب"
+            },
+            {
+                "id": "3",
+                "href": "https://www.filimo.com/#section_free-movie",
+                "src" : "./public/images/free/3.webp",
+                "title": "ملکه گدایان"
+            },
+            {
+                "id": "4",
+                "href": "https://www.filimo.com/#section_free-movie",
+                "src" : "./public/images/free/5.webp",
+                "title": "ویرانگر"
+            },
+            {
+                "id": "5",
+                "href": "https://www.filimo.com/#section_free-movie",
+                "src" : "./public/images/free/11.webp",
+                "title": "بالش ها"
+            },
+            {
+                "id": "6",
+                "href": "https://www.filimo.com/#section_free-movie",
+                "src" : "./public/images/free/4.webp",
+                "title": "زهرعسل"
+            },
+            {
+                "id": "7",
+                "href": "https://www.filimo.com/#section_free-movie",
+                "src" : "./public/images/free/8.webp",
+                "title": "چپ دست"
+            },
+            {
+                "id": "8",
+                "href": "https://www.filimo.com/#section_free-movie",
+                "src" : "./public/images/free/7.webp",
+                "title": "پنجه در خاک"
+            },
+            {
+                "id": "9",
+                "href": "https://www.filimo.com/#section_free-movie",
+                "src" : "./public/images/free/14.webp",
+                "title": "مردم معمولی"
+            },
+            {
+                "id": "10",
+                "href": "https://www.filimo.com/#section_free-movie",
+                "src" : "./public/images/free/12.webp",
+                "title": "سالهای دور از خانه"
+            },
+            {
+                "id": "11",
+                "href": "https://www.filimo.com/#section_free-movie",
+                "src" : "./public/images/free/10.webp",
+                "title": "دیرین دیرین"
+            },
+            {
+                "id": "12",
+                "href": "https://www.filimo.com/#section_free-movie",
+                "src" : "./public/images/free/13.webp",
+                "title": "مافیا"
+            }
+        ]
+
+    },
+    "Children": {
+        "poster":{
+            "id": 1,
+            "src": "./public/images/children/bg-kids.webp"
+        },
+        "content":{
+            "id": 1,
+            "title": "دنیایی متنوع از فیلم و کارتون‌های کودکانه",
+            "text": "ساخت فیلیمو کودک این امکان را می‌دهد که با انتخاب سن فرزندتان، یک فضای امن برای تماشای کودک بسازید؛ یعنی محتوای مخصوص سن خودش را ببیند و به بقیه فیلم و سریال‌ها دسترسی نداشته‌باشد.",
+            "firstBtn": {
+                "id": 1,
+                "name": "فیلیمو کودک بساز",
+                "href": "https://www.filimo.com/multi-profile"
+            },
+            "secondBtn":{
+                "id": 2,
+                "name": "تماشای فیلیموی کودک",
+                "href": "https://www.filimo.com/kids"
+            }
+        }
+    },
+    "Cinema": {
+        "heading":{
+            "id": 1,
+            "title": "سینما آنلاین فیلیمو"
+        },
+        "features":[
+            {
+                "id":1,
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"#1CB561\" class=\"bi bi-check-circle\" viewBox=\"0 0 16 16\"><path d=\"M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16\"/><path d=\"m10.97 4.97-.02.022-3.473 4.425-2.093-2.094a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05\"/></svg>",
+                "text": "فیلم‌های روز سینمای ایران"
+            },
+            {
+                "id":2,
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"#1CB561\" class=\"bi bi-check-circle\" viewBox=\"0 0 16 16\"><path d=\"M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16\"/><path d=\"m10.97 4.97-.02.022-3.473 4.425-2.093-2.094a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05\"/></svg>",
+                "text": "۸ ساعت زمان برای مشاهده فیلم در هر کجا"
+            },
+            {
+                "id":3,
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"#1CB561\" class=\"bi bi-check-circle\" viewBox=\"0 0 16 16\"><path d=\"M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16\"/><path d=\"m10.97 4.97-.02.022-3.473 4.425-2.093-2.094a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05\"/></svg>",
+                "text": "خرید یک بلیت برای تماشا همراه با همه خانواده"
+            }
+        ],
+            "movies": [
+              {
+                "id": 1,
+                "src": "./public/images/online cinema/mov_150478_188543.webp",
+                "title": "یادگار جنوب",
+                "director": "کارگردان : null",
+                "types": {
+                    "firstType": "عاشقانه",
+                    "secondType": "خانوادگی"
+                },
+                "btn":{
+                    "name": "خرید بلیت",
+                    "href": "https://www.filimo.com/m/f301n"
+                }
+              },
+              {
+                "id": 2,
+                "src": "./public/images/online cinema/mov_149117_185998.webp",
+                "title": "تمساح خونی",
+                "director": "کارگردان : null",
+                "types": {
+                    "firstType": "اکشن",
+                    "secondType": "کمدی"
+                },
+                "btn":{
+                    "name": "خرید بلیت",
+                    "href": "https://www.filimo.com/m/ugcmz"
+                }
+
+              }
+            ]
+    },
+    "Comments":{
+        "heading":{
+            "id": 1,
+            "text": "نظر کاربران بعد از تماشای فیلیمو"
+        },
+        "comment":[
+            {
+                "id":1 ,
+                "name":"احسان احمدی" ,
+                "text": "فیلیمو یک فراهم آورنده فیلم و سریال معمولی هست."
+            },
+            {
+                "id":2 ,
+                "name":"بیتا علوی" ,
+                "text": "من چند وقته فیلیمو رو دارم خیلی راحتم باهاش و دوسش دارم فیلم جیرانش هم خیلی خوبه"
+            },
+            {
+                "id":3 ,
+                "name":"Neda1996" ,
+                "text": "متوسط. خوبی های خودش داره . اما بدی هاش هم داره مثلا یک چیزی که دانلود میکنی نمیتونی نگهش داری فقط تا دو هفته"
+            },
+            {
+                "id":4 ,
+                "name":"ُساینا صابری" ,
+                "text": "من امروز بیست و پنجم خرداد ماه ,۱۴۰۲ اشتراک فیلیمو خریدم ، از حسابم کم شده ولی اشتراک اعمال نشده ولی ظرف نیم ساعت اشتراک اعمال شد"
+            },
+            {
+                "id":5 ,
+                "name":"شقایق" ,
+                "text": "صرف اینترنتش خیلی بالاست همونو بریم از توی اپلیکیشن های دیگه نگاه کنیم بیشتر میصرفه. من تاحالا اشتراک نخریدم ولی نظر بقیه رو که خوندم انگار با خرید اشتراک هم مصرف نتش بالاس و این اصلا عادلانه نیست"
+            },
+            {
+                "id":6 ,
+                "name":"زهرا" ,
+                "text": "بظر من در ایران خودمون بهترینه ولی هنوز کار داره باید زحمت بیشتری کشیده بشه مخصوصا ادامه سریال ها بی جهت معطل مانده است که بدترین شکل ممکن در نوع انتظار کشیدنه"
+            },
+            {
+                "id":7 ,
+                "name":"Ehsan" ,
+                "text": "سلام هم قیمت زیاده شده بابت اشتراک و مورد دیگه چرا بعضی از سریالها چند قسمت آن پخش شده و مابقی نزدیک به یکسال دیگه پخش نشده مثل قبایل اروپا چرخ زمان و …"
+            },
+            {
+                "id":8 ,
+                "name":"Sara" ,
+                "text": "واقعا از همه نظر عالی مخصوصا برنامه دوشات که با کارگردانی آقای میرمیرانی روز ادمو میسازه"
+            },
+            {
+                "id":9 ,
+                "name":"کیمیا" ,
+                "text": "خیلی از فیلم ها داخلش نیس مثل سریال پوست شیر ،شریک جرم و…"
+            }
+        ]
+
+    },
+    "Faq":{
+        "heading": {
+            "id": 1,
+            "title" : "سوالات متداول",
+            "text": "سوال شایع سایر کاربران شاید برای شما هم پیش آمده باشد"
+        },
+        "accardeon":[
+            {
+                "id": 1,
+                "question": "آیا می‌توانم فیلم‌های موجود در فیلیمو را دانلود کنم؟",
+                "answer" : "بله، شما می‌توانید همه فیلم‌ و سریال‌های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان‌هایی که اینترنت ندارید یا در سفر، هواپیما و قطار آ‌ن‌ها را تماشا کنید. برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می‌توانید اقدام‌کنید. برای جزییات بیشتر می‌توانید فیلم‌های آموزشی مربوط به دانلود از طریق سایت و دانلود از طریق  اپلیکیشن را تماشا کنید."
+            },
+            {
+                "id": 2,
+                "question": "آیا فیلیمو برای خارج از ایران در دسترس است؟",
+                "answer" : "خیر. درحال حاضر تماشای فیلیمو فقط در داخل کشور فعال است و امکان تماشا برای افراد خارج از کشور فعال نیست."
+            },
+            {
+                "id": 3,
+                "question": "آیا برای تماشای فیلم‌های اکران آنلاین، باید اشتراک بخرم؟",
+                "answer" : "تماشای فیلم‌های اکران آنلاین مانند تماشا در سینمای واقعی است؛ یعنی برای دیدن هر فیلم که در اکران آنلاین است باید بلیت تهیه کنید و به جای رفتن به سالن سینما، 8 ساعت فرصت دارید که آن فیلم را از داخل خانه تماشا کنید."
+            },
+            {
+                "id": 4,
+                "question": "از کجا می‌توانم نرم‌افزار اندروید یا iOS فیلیمو را دانلود کنم؟",
+                "answer" : "برای نصب نرم‌افزار اندرویدی فیلیمو می‌توانید ازطریق کافه بازار یا مایکت اقدام به دانلود کنید. یا می‌توانید روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار اندروید) برای دانلود نرم‌افزار iOS فیلیمو نیز کافیست روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار iOS)"
+            }
+        ]
+    },
+    "FooterLinks":{
+       "links": [
+        {
+            "id": 1,
+            "name": "تماشا با تلویزیون",
+            "href": "https://www.filimo.com/tv/?itm_source=bigscrren-footer-link"
+        },
+        {
+            "id": 2,
+            "name": "اپلیکیشن ها",
+            "href": "https://www.filimo.com/app"
+        },
+        {
+            "id": 3,
+            "name": "تماس و پشتیبانی",
+            "href": "https://www.filimo.com/contact"
+        },
+        {
+            "id": 4,
+            "name": "فروشگاه",
+            "href": "https://www.filimo.com/showroom"
+        }
+       ],
+       "otherlinks":{
+        "other": {
+            "id": 1,
+            "name": "سایر لینک ها"
+        },
+        "links": [
+            {
+                "id": 1, 
+                "name" : "قوانین",
+                "href" :"https://www.filimo.com/term"
+            },
+            {
+                "id": 2, 
+                "name" : "به ما بپیوندید",
+                "href" :"https://job.sabaidea.com/"
+            },
+            {
+                "id": 3, 
+                "name" : "تبلیغات در فیلیمو",
+                "href" :"https://www.filimo.com/advertise"
+            },
+            {
+                "id": 4, 
+                "name" : "لوگو",
+                "href" :"https://www.filimo.com/logo"
+            },
+            {
+                "id":51, 
+                "name" : "فیلم و سریال",
+                "href" :"https://www.filimo.com/logo"
+            }
+        ]
+       },
+       "socialMedia": {
+        "social": {
+            "id": 1,
+            "name": "شبکه های اجتماعی"
+        },
+        "medias": [
+            {
+                "id": 1,
+                "name": "اپارات",
+                "href": "https://www.aparat.com/filimo"
+            },
+            {
+                "id": 2,
+                "name": "تلگرام",
+                "href": "https://t.me/filimo"
+            },
+            {
+                "id": 3,
+                "name": "توییتر",
+                "href": "http://twitter.com/filimocom"
+            },
+            {
+                "id": 4,
+                "name": "اینستاگرام",
+                "href": "http://instagram.com/filimocom"
+            }
+        ]
+       }
+
+    },
+    "Footer":{
+        "heading":{
+            "id": 1,
+            "src": "./public/images/footer/logo_text.webp"
+        },
+        "features":[
+            {
+                "id":1,
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"#1CB561\" class=\"bi bi-check-circle\" viewBox=\"0 0 16 16\"><path d=\"M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16\"/><path d=\"m10.97 4.97-.02.022-3.473 4.425-2.093-2.094a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05\"/></svg>",
+                "text": "هزاران فیلم و سریال خارجی(دوبله و زیرنویس)"
+            },
+            {
+                "id":2,
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"#1CB561\" class=\"bi bi-check-circle\" viewBox=\"0 0 16 16\"><path d=\"M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16\"/><path d=\"m10.97 4.97-.02.022-3.473 4.425-2.093-2.094a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05\"/></svg>",
+                "text": "هزاران انیمیشن و کارتون برای کودکان"
+            },
+            {
+                "id":3,
+                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"#1CB561\" class=\"bi bi-check-circle\" viewBox=\"0 0 16 16\"><path d=\"M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16\"/><path d=\"m10.97 4.97-.02.022-3.473 4.425-2.093-2.094a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05\"/></svg>",
+                "text": "پشتیبانی 24 ساعته برای راهنمایی شما"
+            }
+        ],
+        "subscribe":{
+            "id": 1,
+            "name" : "خرید اشتراک و تماشا",
+            "href" :"https://www.filimo.com/payment"
+        }
+    }
+
+    }

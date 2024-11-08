@@ -1,0 +1,100 @@
+.online-cinema{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    background-image: radial-gradient(circle, #321114, black);
+    padding: 50px 0;
+    .heading{
+        width: 100%;
+        text-align: center;
+        h2{
+            color: white;
+        }
+    }
+    .features{
+        width: 90%;
+        margin: 30px auto;
+        display: grid;
+        grid-template-columns: repeat(3,33%);
+        justify-content: center;
+        align-items: center;
+        .feature{
+            display: flex;
+            flex-flow: row nowrap;
+            column-gap: 2px;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            span{
+              display: flex;
+            }
+        }
+    }
+    .movies{
+        width: 85%;
+        display: flex;
+        flex-direction: row;
+        margin: 0 auto;
+        justify-content: center;
+        column-gap: 3%;
+        .movie{
+            width: 50%;
+            display: flex;
+            flex-direction: row;
+            justify-content: start;
+            column-gap: 10px;
+            border: 1px solid rgba(85, 84, 84, 0.553);
+            border-radius: 12px;
+            padding: 10px;
+            color: white;
+            box-shadow: 5px 5px 25px black;
+            .poster-cinema img{
+                border-radius: 8px;
+            }
+            .details{
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                h2{
+                    font-size: 16px;
+                }
+                p{
+                    font-size: 12px;
+                    font-weight: 300px;
+                }
+                .type{
+                    display: flex;
+                    flex-direction: row;
+                    column-gap: 20px;
+                    span{
+                        background-color: black;
+                        color: white;
+                        font-size: 12px;
+                        padding: 5px;
+                    }
+                }
+                .buy button{
+                    all: unset;
+                    width: fit-content;
+                    background-color: transparent;
+                    padding: 10px 15px;
+                    border-radius: 5px;
+                    cursor: pointer;
+                    transition: 1000ms;
+                    border: 1px solid lightgray;
+                    &:hover{
+                        background-color: black;
+                        }
+                    a{
+                        all: unset;
+                        display: flex;
+                        font-size: 12px;
+                        font-weight: 400;
+                    }
+                }
+
+            }
+        }
+    }
+}

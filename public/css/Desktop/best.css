@@ -1,0 +1,113 @@
+.best-filimo{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    background-color: var(--primary-color);
+    padding: 50px;
+    .best-heading{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        column-gap: 20px;
+        justify-content: start;
+        align-items: center;
+        padding: 10px 0;
+        h2{
+            color: white;
+            font-size: 20px;
+        }
+        .switch{
+            display: flex;
+            flex-direction: row;
+            column-gap: 20px;
+            border: 1px solid rgba(155, 155, 155, 0.445);
+            border-radius: 50px;
+            .series-btn{
+                all: unset;
+                color: white;
+                cursor: pointer;
+                border-radius: 50px;
+                padding: 5px 10px;
+                background-color: #313131;
+                font-size: 13px;
+                font-weight: bold;
+            }
+            .movies-btn{
+                all: unset;
+                color: white;
+                cursor: pointer;
+                padding: 5px 10px;
+                border-radius: 50px;
+                font-size: 13px;
+                font-weight: bold;
+            }
+        }
+    }
+    .series{
+        width: 100%;
+        .series-container{
+            display: flex;
+            flex-flow: row nowrap;
+            column-gap: 30px;
+            margin: 0 auto;
+            justify-content: center;
+            align-items: center;
+            transition: 1000ms;
+            .serie{
+                position: relative;
+                border-radius: 10px;
+                filter: brightness(70%);
+                cursor: pointer;
+                transition: 1000ms;
+                &:hover{
+                    filter: brightness(100%) !important;
+                }
+                img{
+                    width: 100%;
+                    border-radius: 10px;
+                    cursor: pointer;
+                }
+                svg{
+                    position: absolute;
+                    bottom: 15px;
+                    right: 30%;
+                    background-color: rgba(22, 22, 22, 0.575);
+                }
+            }
+
+        }
+       
+    }
+    .movies{
+        width: 100%;
+        display: flex;
+        flex-flow: row wrap;
+        column-gap: 30px;
+        margin: 0 auto;
+        justify-content: space-around;
+        align-items: center;
+        transition: 1000ms;
+        display: none;
+        .movie{
+            cursor: pointer;
+            border-radius: 10px;
+            filter: brightness(70%);
+            transition: 1000ms;
+            &:hover{
+                filter: brightness(100%) !important;
+            }
+            img{
+               border-radius: 10px;
+        }
+        }
+
+    
+}  
+}
+
+.active-state{
+    filter: brightness(100%) !important;
+    transform: scale(105%) !important;
+    border: 2px solid gray !important;
+}
