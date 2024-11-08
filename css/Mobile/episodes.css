@@ -65,6 +65,7 @@
                     justify-content: center;
                     align-items: center;
                     transition: 1000ms;
+                    margin: 10px 0;
                     &:hover{
                       background-color: #178147;
                     }
@@ -74,7 +75,10 @@
                     }
                 }
                 p{
-                    display: none;
+                    color: white;
+                    font-size: 10px;
+                    z-index: 50;
+                    padding:10px 0;
                 }
               }
 
