@@ -48,8 +48,36 @@
                         border-radius: 50px;
                     }
                 }
-                p{
+                .explanation{
                     display: none;
+                }
+                button{
+                    all: unset;
+                    width:fit-content;
+                    background-color: var(--primary-green);
+                    color: white;
+                    padding: 5px 10px;
+                    border-radius: 5px;
+                    cursor: pointer;
+                    display: flex;
+                    flex-direction: row;
+                    column-gap: 5px;
+                    justify-content: center;
+                    align-items: center;
+                    transition: 1000ms;
+                    &:hover{
+                      background-color: #178147;
+                    }
+                    a{
+                        all: unset;
+                        font-size: 12px;
+                    }
+                }
+                p{
+                    color: white;
+                    font-size: 10px;
+                    z-index: 50;
+                    padding: 20px 0;
                 }
               }
 
