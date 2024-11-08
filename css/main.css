@@ -1,0 +1,4 @@
+@import "./setting";
+@import "./Mobile/mobile" only screen and (max-width: 1000px);
+@import "./Desktop/desktop" only screen and (min-width: 1000px);
+

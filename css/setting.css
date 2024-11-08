@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Sahel;
+    src: url(../fonts/Sahel-FD.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Sahel;
+    
+}
+
+
+/* Colors setting */
+:root{
+    --primary-color :#151515;
+    --secondary-color: #040404;
+    --primary-green: #1CB561;
+    --gray-btn : #434343;
+    --primary-yellow : #F9AD03;
+    --text-lightgray: #D8D8D8;
+    --text-gray : #969696;
+
+}
